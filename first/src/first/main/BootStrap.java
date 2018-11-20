@@ -13,12 +13,12 @@ public class BootStrap {
 	}
 	
 	public int doSomething(int a, int b) {
-		int c=a%b;
+		int c=a+b+b+a+b+a+a+a+a;
 		return c;
 	}
 	
 	public int testThing(int a, int b) {
-		int c=a*b*a*b;
+		int c=a/b/b/b/b/b/b/b;
 		return c;
 	}
 }
