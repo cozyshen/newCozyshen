@@ -16,4 +16,9 @@ public class BootStrap {
 		int c=a/b;
 		return c;
 	}
+	
+	public int testThing(int a, int b) {
+		int c=a-b;
+		return c;
+	}
 }
