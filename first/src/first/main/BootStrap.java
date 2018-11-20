@@ -8,6 +8,8 @@ public class BootStrap {
 	 
 		System.out.println("second commit");
 	
+		System.out.println("version 1.1");
+		
 	}
 	
 	
