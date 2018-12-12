@@ -24,4 +24,8 @@ public class BootStrap {
 
 		return c;
 	}
+	
+	public void mastercommit1() {
+		
+	}
 }
