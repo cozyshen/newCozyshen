@@ -18,10 +18,14 @@ public class BootStrap {
 		return c;
 	}
 	
-	public int testThing(int a, int b) {
+	public int createBeforeCreateBranch(int a, int b) {
 
 		int c=a+b+a+b+a+b/b/b/b/b/b/b;
 
 		return c;
 	}
+	
+	
+	
+	
 }
