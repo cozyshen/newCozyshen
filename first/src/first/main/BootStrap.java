@@ -25,7 +25,9 @@ public class BootStrap {
 		return c;
 	}
 	
-	
+	public void branchcommit1() {
+		
+	}
 	
 	
 }
